@@ -124,9 +124,15 @@
     line-height: 140%;
   }
   &__description {
+    text-decoration: none;
+    color: inherit;
     margin: 0;
     font-weight: 500;
     font-size: 16px;
     line-height: 140%;
+
+    &:hover {
+      color: #00bbff;
+    }
   }
 }

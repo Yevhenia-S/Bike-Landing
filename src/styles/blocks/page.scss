@@ -6,6 +6,11 @@
     min-width: 320px;
     color: $main-text-color;
     font-family: Poppins, sans-serif;
+
+    &:has(.page__menu:target) {
+      overflow: hidden;
+      height: 100vh;
+    }
   }
 
   &__menu {
