@@ -10,6 +10,7 @@ This is a single-page website designed to showcase responsive design and interac
 - **StyleLint, HTMLLint, BEMLint**: For checking code compliance with standards.
 
 # Links
-- **Project preview:** [DEMO LINK](https://yevhenia-s.github.io/Bike-Landing/)
+- **Project preview** [DEMO LINK](https://yevhenia-s.github.io/Bike-Landing/)
+- **GITHUB** [GITHUB LINK](https://github.com/Yevhenia-S/Bike-Landing)
 - **Figma design:** [View design](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 
